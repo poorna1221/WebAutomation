@@ -6,7 +6,7 @@ Create an automated smoke test suite using any web automation tool & framework f
 
 ●	Selenium is used along with cucumber BDD framework to complete this task.
 
-###Framework Details
+### Framework Details
 
 ●	I have used page object model and updated all application related objects in the java class PageObjects.Java which is located inside the package stepdefinition. Usually i will create multiple classes one for each page, but since the task is simple I have updated all the page objects in the same PageObjects.Java class.
 
