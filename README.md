@@ -7,14 +7,14 @@ Create an automated smoke test suite using any web automation tool & framework f
 ●	Selenium is used along with cucumber BDD framework to complete this task.
 
 
-## Bugs Found
+### Bugs Found
 
 #1 Flights link is missing in the https://www.phptravels.net/account/ page randomly, and the the link is getting visible again after sometime.
 
 #2 In the flights home page return journey object is enabled even though user has selected the ONE WAY radio button. Return journey calender should be enabled only after selecting the ROUND TRIP radio button.
 
 
-### Prerequisites
+#### Prerequisites
 
 I assume following software's are installed on the machine where this project will be executed.
 
@@ -30,4 +30,7 @@ I assume following software's are installed on the machine where this project wi
 ●	Program execution will be started and wait till the execution is completed.
 
 ●	Naviate to /test-output/index.html page to view the results.
+
+#### Role Applied at Qantas
+Senior QA Automation Engineer
 
