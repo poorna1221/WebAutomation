@@ -1,6 +1,6 @@
 # Project Title
 
-Create an automated smoke test suite any web automation tool & framework for booking flight in phptravels.com website.
+Create an automated smoke test suite using any web automation tool & framework for booking flight in phptravels.com website.
 
 ## Tools/Frameworks used
 
