@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class PageObjects {
-
+        // I have added all the objects from all the pages into this class to make the project look simple
 	WebDriver driver;
 
 	public PageObjects(WebDriver driver) {
